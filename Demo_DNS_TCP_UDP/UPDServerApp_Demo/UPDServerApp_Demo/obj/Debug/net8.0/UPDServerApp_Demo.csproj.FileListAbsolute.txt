@@ -1,0 +1,15 @@
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.AssemblyInfoInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.AssemblyInfo.cs
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.csproj.CoreCompileInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.sourcelink.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\bin\Debug\net8.0\UPDServerApp_Demo.exe
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\bin\Debug\net8.0\UPDServerApp_Demo.deps.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\bin\Debug\net8.0\UPDServerApp_Demo.runtimeconfig.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\bin\Debug\net8.0\UPDServerApp_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\bin\Debug\net8.0\UPDServerApp_Demo.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\refint\UPDServerApp_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\UPDServerApp_Demo.genruntimeconfig.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\UPDServerApp_Demo\UPDServerApp_Demo\obj\Debug\net8.0\ref\UPDServerApp_Demo.dll

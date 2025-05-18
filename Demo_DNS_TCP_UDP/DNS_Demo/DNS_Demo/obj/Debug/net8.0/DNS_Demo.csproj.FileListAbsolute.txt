@@ -1,0 +1,15 @@
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.AssemblyInfoInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.AssemblyInfo.cs
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.csproj.CoreCompileInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.sourcelink.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\bin\Debug\net8.0\DNS_Demo.exe
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\bin\Debug\net8.0\DNS_Demo.deps.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\bin\Debug\net8.0\DNS_Demo.runtimeconfig.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\bin\Debug\net8.0\DNS_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\bin\Debug\net8.0\DNS_Demo.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\refint\DNS_Demo.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\DNS_Demo.genruntimeconfig.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DNS_Demo\DNS_Demo\obj\Debug\net8.0\ref\DNS_Demo.dll

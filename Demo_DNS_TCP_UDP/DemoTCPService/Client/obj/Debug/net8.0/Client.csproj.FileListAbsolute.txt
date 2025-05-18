@@ -1,0 +1,15 @@
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\bin\Debug\net8.0\Client.exe
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\bin\Debug\net8.0\Client.deps.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\bin\Debug\net8.0\Client.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\bin\Debug\net8.0\Client.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.sourcelink.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\refint\Client.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\DemoTCPService\Client\obj\Debug\net8.0\ref\Client.dll
