@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FE85D-2891-4481-9775-BCCF4169AB15}|Demo3WPF\\Demo3WPF.csproj|c:\\users\\bebet\\downloads\\task\\task\\asynchronousdemo\\demo3wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD2FE85D-2891-4481-9775-BCCF4169AB15}|Demo3WPF\\Demo3WPF.csproj|solutionrelative:demo3wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2FE85D-2891-4481-9775-BCCF4169AB15}|Demo3WPF\\Demo3WPF.csproj|c:\\users\\bebet\\downloads\\task\\task\\asynchronousdemo\\demo3wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2FE85D-2891-4481-9775-BCCF4169AB15}|Demo3WPF\\Demo3WPF.csproj|solutionrelative:demo3wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA29B5B4-6BEA-40F4-AC02-5007923D05A5}|Demo2\\Demo2.csproj|c:\\users\\bebet\\downloads\\task\\task\\asynchronousdemo\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA29B5B4-6BEA-40F4-AC02-5007923D05A5}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8966834E-0672-45B8-BFF3-50B6224200F4}|Demo1\\Demo1.csproj|c:\\users\\bebet\\downloads\\task\\task\\asynchronousdemo\\demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8966834E-0672-45B8-BFF3-50B6224200F4}|Demo1\\Demo1.csproj|solutionrelative:demo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo3WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Demo3WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo3WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Demo3WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-25T10:07:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo3WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo3WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo3WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo3WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwDcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T10:07:19.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:59:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo1\\Program.cs",
+              "RelativeDocumentMoniker": "Demo1\\Program.cs",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Task\\Task\\AsynchronousDemo\\Demo1\\Program.cs",
+              "RelativeToolTip": "Demo1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T09:51:01.768Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

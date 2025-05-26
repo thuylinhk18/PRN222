@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ_Demonstration _01", "PLINQ_Demonstration _01\PLINQ_Demonstration _01.csproj", "{561D24CA-E64B-4265-ABC1-43CF2D9EE891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ_Demonstration_02", "PLINQ_Demonstration_02\PLINQ_Demonstration_02.csproj", "{B095C46D-99DF-4855-9A6E-E832A68023DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561D24CA-E64B-4265-ABC1-43CF2D9EE891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561D24CA-E64B-4265-ABC1-43CF2D9EE891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561D24CA-E64B-4265-ABC1-43CF2D9EE891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561D24CA-E64B-4265-ABC1-43CF2D9EE891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B095C46D-99DF-4855-9A6E-E832A68023DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B095C46D-99DF-4855-9A6E-E832A68023DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B095C46D-99DF-4855-9A6E-E832A68023DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B095C46D-99DF-4855-9A6E-E832A68023DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0F4764-706A-430F-BE02-90E55405EA13}
+	EndGlobalSection
+EndGlobal

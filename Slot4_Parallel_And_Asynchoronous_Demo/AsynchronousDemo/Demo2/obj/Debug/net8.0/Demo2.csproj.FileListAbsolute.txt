@@ -1,0 +1,14 @@
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\bin\Debug\net8.0\Demo2.exe
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\bin\Debug\net8.0\Demo2.deps.json
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\bin\Debug\net8.0\Demo2.runtimeconfig.json
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\bin\Debug\net8.0\Demo2.dll
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\bin\Debug\net8.0\Demo2.pdb
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.AssemblyInfoInputs.cache
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.AssemblyInfo.cs
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.csproj.CoreCompileInputs.cache
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.dll
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\refint\Demo2.dll
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.pdb
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\Demo2.genruntimeconfig.cache
+D:\FPT_Thaiiha\CN7\PRN222\Project\AsynchronousDemo\Demo2\obj\Debug\net8.0\ref\Demo2.dll

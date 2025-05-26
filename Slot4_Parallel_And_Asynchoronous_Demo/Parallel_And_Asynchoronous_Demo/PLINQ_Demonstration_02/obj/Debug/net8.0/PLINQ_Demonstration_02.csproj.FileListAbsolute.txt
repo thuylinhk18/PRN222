@@ -1,0 +1,15 @@
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\bin\Debug\net8.0\PLINQ_Demonstration_02.exe
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\bin\Debug\net8.0\PLINQ_Demonstration_02.deps.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\bin\Debug\net8.0\PLINQ_Demonstration_02.runtimeconfig.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\bin\Debug\net8.0\PLINQ_Demonstration_02.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\bin\Debug\net8.0\PLINQ_Demonstration_02.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.AssemblyInfoInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.AssemblyInfo.cs
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.csproj.CoreCompileInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.sourcelink.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\refint\PLINQ_Demonstration_02.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\PLINQ_Demonstration_02.genruntimeconfig.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Parallel_And_Asynchoronous_Demo\PLINQ_Demonstration_02\obj\Debug\net8.0\ref\PLINQ_Demonstration_02.dll
