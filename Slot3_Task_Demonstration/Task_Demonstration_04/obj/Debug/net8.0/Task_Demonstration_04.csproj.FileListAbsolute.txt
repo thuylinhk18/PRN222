@@ -1,0 +1,15 @@
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\bin\Debug\net8.0\Task_Demonstration_04.exe
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\bin\Debug\net8.0\Task_Demonstration_04.deps.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\bin\Debug\net8.0\Task_Demonstration_04.runtimeconfig.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\bin\Debug\net8.0\Task_Demonstration_04.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\bin\Debug\net8.0\Task_Demonstration_04.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.AssemblyInfoInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.AssemblyInfo.cs
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.csproj.CoreCompileInputs.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.sourcelink.json
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\refint\Task_Demonstration_04.dll
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.pdb
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\Task_Demonstration_04.genruntimeconfig.cache
+D:\FPT_Documents\SU25_CN7\1_PRN222\Project\Slot3_Task_Demonstration\Task_Demonstration_04\obj\Debug\net8.0\ref\Task_Demonstration_04.dll
