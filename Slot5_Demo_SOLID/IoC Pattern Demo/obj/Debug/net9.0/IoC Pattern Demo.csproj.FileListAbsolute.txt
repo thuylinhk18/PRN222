@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.AssemblyInfo.cs
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\Data\MoviesDB.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\IoC Pattern Demo.exe
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\IoC Pattern Demo.deps.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\IoC Pattern Demo.runtimeconfig.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\IoC Pattern Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\IoC Pattern Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\refint\IoC Pattern Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\IoC Pattern Demo.genruntimeconfig.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\obj\Debug\net9.0\ref\IoC Pattern Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\Model\XMLMovieReader.cs
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\IoC Pattern Demo\bin\Debug\net9.0\Data\MoviesDB.xml

@@ -1,0 +1,19 @@
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Data\BookStore_01.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Data\BookStore_02.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Open_Closed Principle Demo.exe
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Open_Closed Principle Demo.deps.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Open_Closed Principle Demo.runtimeconfig.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Open_Closed Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Open_Closed Principle Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.AssemblyInfo.cs
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Clo.686961A2.Up2Date
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\refint\Open_Closed Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\Open_Closed Principle Demo.genruntimeconfig.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Open_Closed Principle Demo\obj\Debug\net9.0\ref\Open_Closed Principle Demo.dll

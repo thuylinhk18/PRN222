@@ -1,0 +1,20 @@
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Data\BookStore1.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Data\BookStore2.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Data\BookStore3.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Interface Segregation Principle Demo.exe
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Interface Segregation Principle Demo.deps.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Interface Segregation Principle Demo.runtimeconfig.json
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Interface Segregation Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Interface Segregation Principle Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.AssemblyInfo.cs
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interfac.98681D6D.Up2Date
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\refint\Interface Segregation Principle Demo.dll
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.pdb
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\Interface Segregation Principle Demo.genruntimeconfig.cache
+C:\Users\PC\source\repos\Slot5_Demo_SOLID\Interface Segregation Principle Demo\obj\Debug\net9.0\ref\Interface Segregation Principle Demo.dll

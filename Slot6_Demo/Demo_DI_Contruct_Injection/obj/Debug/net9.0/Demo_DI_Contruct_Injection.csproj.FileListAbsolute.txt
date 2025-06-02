@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\bin\Debug\net9.0\Demo_DI_Contruct_Injection.exe
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\bin\Debug\net9.0\Demo_DI_Contruct_Injection.deps.json
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\bin\Debug\net9.0\Demo_DI_Contruct_Injection.runtimeconfig.json
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\bin\Debug\net9.0\Demo_DI_Contruct_Injection.dll
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\bin\Debug\net9.0\Demo_DI_Contruct_Injection.pdb
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.AssemblyInfo.cs
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.dll
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\refint\Demo_DI_Contruct_Injection.dll
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.pdb
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\Demo_DI_Contruct_Injection.genruntimeconfig.cache
+C:\Users\PC\source\repos\Slot6_Demo\Demo_DI_Contruct_Injection\obj\Debug\net9.0\ref\Demo_DI_Contruct_Injection.dll

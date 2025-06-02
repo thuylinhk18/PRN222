@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJGFEaSabeg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Slot6_Demo\\ServiceCollection Class Demo\\ServiceCollection Class Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

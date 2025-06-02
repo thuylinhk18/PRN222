@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uhtP6BwWibs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Slot6_Demo\\Demo_DI_MethodInjection\\Demo_DI_MethodInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.5\\microsoft.extensions.dependencyinjection.9.0.5.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
