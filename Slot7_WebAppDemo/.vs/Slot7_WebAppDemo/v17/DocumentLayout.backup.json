@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|c:\\users\\bebet\\downloads\\slot7_webappdemo\\slot7_webappdemo\\slot7_webappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96F6D3-929C-4D60-A42F-78572E043C62}|Slot7_WebAppDemo\\Slot7_WebAppDemo.csproj|solutionrelative:slot7_webappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:34.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:33.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:01:08.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T01:00:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:59:59.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Slot7_WebAppDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bebet\\Downloads\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Slot7_WebAppDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Slot7_WebAppDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T00:59:56.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
